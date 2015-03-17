@@ -1,6 +1,6 @@
 # Topic-CSS
 Collections of some basic CSS
-对常见的 CSS 问题做一个汇总学习;
+>对常见的 CSS 问题做一个汇总学习;
 ###Todo-list
 1. 水平居中和垂直居中;
 2. 盒模型;
